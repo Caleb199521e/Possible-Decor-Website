@@ -815,4 +815,10 @@ textarea {
   text-decoration: underline;
 }
 
+form {
+  display: none;
+}
 
+form.active-form {
+  display: block;
+}
